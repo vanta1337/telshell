@@ -1,6 +1,5 @@
 import telnetlib
 import time
-import colorsys
 import os
 from threading import Thread
 from colorama import Fore, Style
