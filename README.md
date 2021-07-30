@@ -15,7 +15,7 @@ You can also:
 
 ### Installation
 
-telshel requires python3 to run
+telshell requires python3 to run
 ####
 - Clone the repository and install the python requirements
 - Set -netconport [PORT] in your csgo launch options
